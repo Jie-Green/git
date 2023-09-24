@@ -8,5 +8,5 @@ line7
 
 topic-A
 
-topic B2
+topic B
 
